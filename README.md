@@ -20,7 +20,7 @@ Ik heb ervoor gekozen om in Unity C# te werken. Ik heb natuurlijk gekeken of er 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| Iets | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 |week 1 |
 |week 2 |
 
