@@ -1,7 +1,6 @@
-# Naam Proefopdracht
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
+# Shader
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
+Ik heb ervoor gekozen om een surface shader temaken die, wanneer een speler eet, er voor zorgt dat de speler dik word. Ik heb deze opdracht voor twee redenen gekozen, 1 ik heb eerder op school les gekregen en dat heeft me een kleinen interrese gegeven in het onderwerp, 2 de opdracht geeft hoe het gebruikt kan worden als een feature gebruikt kan worden ik heb hier veel interrese in.
 
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
@@ -11,25 +10,20 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 - [Iets unieks waar je trots op bent binnen de project](link)
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+Ik heb ervoor gekozen om in Unity C# te werken. Ik heb natuurlijk gekeken of er een anderen mogelijkheid was, en er is er wel een naamelijk Unreal Engine 4. Ik ben heelaas niet gevordert genoeg om te kunnen zeggen dat ik de opdracht op een duidelijken en tijdelijke manier klaar zal hebben, ik heb daarom gekozen om Unity te gebruiken voor dit project.
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+- Een shader maken via code.
+- Het aanroepen en manipuleren van een shader door code.
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |
+|week 1 |Shader maken |Test op Unity-Chan model |begin game gedeelte |verder met game |Verder met game |
 |week 2 |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [Unity Manual Surface Shader](https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html)
