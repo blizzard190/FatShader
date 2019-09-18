@@ -2,7 +2,7 @@
 {
 	Properties{
 	   _MainTex("Texture", 2D) = "white" {}
-	   _Amount("Extrusion Amount", Range(-1,1)) = 0.5
+	   _Amount("Extrusion Amount", Range(-1,1)) = 0
 	}
 		SubShader{
 		  Tags { "RenderType" = "Opaque" }
@@ -16,6 +16,9 @@
 		  float _Amount;
 
 		  void vert(inout appdata_full v) {
+			  /*half offSetVert = sin(v.vertex.y);
+
+			  v.vertex.x += offSetVert;*/
 			  v.vertex.xyz += v.normal * _Amount;
 		  }
 

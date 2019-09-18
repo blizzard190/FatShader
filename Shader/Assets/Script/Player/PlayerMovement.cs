@@ -4,15 +4,25 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
+    CharacterController characterController;
+    private float _Speed = 2f;
+    private Vector3 _MoveDirection = Vector3.zero;
+
     void Start()
     {
-        
+        characterController = GetComponent<CharacterController>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        if (characterController.isGrounded)
+        {
+            _MoveDirection = new Vector3(Input.GetAxisRaw("Horizontal"), 0.0f, Input.GetAxisRaw("Vertical"));
+            _MoveDirection = _MoveDirection * _Speed;
+        }
+
+        _MoveDirection.y -= 10f * Time.deltaTime;
+
+        characterController.Move(_MoveDirection * Time.deltaTime);
     }
 }
