@@ -2,13 +2,6 @@
 
 Ik heb ervoor gekozen om een surface shader temaken die, wanneer een speler eet, er voor zorgt dat de speler dik word. Ik heb deze opdracht voor twee redenen gekozen, 1 ik heb eerder op school les gekregen en dat heeft me een kleinen interrese gegeven in het onderwerp, 2 de opdracht geeft hoe het gebruikt kan worden als een feature gebruikt kan worden ik heb hier veel interrese in.
 
-## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
-
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
-
 ## Software Anaylse 
 Ik heb ervoor gekozen om in Unity C# te werken. Ik heb natuurlijk gekeken of er een anderen mogelijkheid was, en er is er wel een naamelijk Unreal Engine 4. Ik ben heelaas niet gevordert genoeg om te kunnen zeggen dat ik de opdracht op een duidelijken en tijdelijke manier klaar zal hebben, ik heb daarom gekozen om Unity te gebruiken voor dit project.
 
