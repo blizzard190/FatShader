@@ -27,3 +27,4 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 ## Bronnen
 
 - [Unity Manual Surface Shader](https://docs.unity3d.com/Manual/SL-SurfaceShaderExamples.html)
+- [Basic 3d movement](https://www.noob-programmer.com/unity3d/basic-movement-in-unity3d/)
